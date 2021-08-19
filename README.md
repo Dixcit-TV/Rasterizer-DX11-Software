@@ -1,2 +1,2 @@
-# Rasterizer-DX11-Software (Coming as soon as I have time to upload it)
+# Rasterizer-DX11-Software
 Merge between software and hardware rasterizer - Allowing to "seemlessly" switch between both at runtime
