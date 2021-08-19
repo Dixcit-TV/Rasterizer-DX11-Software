@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin
+/source/.vs/Rasterizer_Merge_Software_DX11/v16
+/source/Debug
+/source/Release
+/source/TempFiles
