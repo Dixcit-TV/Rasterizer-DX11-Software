@@ -24,11 +24,11 @@ Transparency on a software rasterizer was also something that we didn't cover bu
 ## What can these rasterizers do?
 The rasterizers provide the following features:
 
-OBJ file loading (removes duplicate vertices).
-Triangle meshes rasterization.
-Directional lights.
-Transparency
-Front-, Back- & No-Culling modes
-Fustrum culling
-Filtering (Point, Linear & Anisotropic) - Hardware Only
-Dynamic camera (UE4-like controls)
+- OBJ file loading (removes duplicate vertices).
+- Triangle meshes rasterization.
+- Directional lights.
+- Transparency
+- Front-, Back- & No-Culling modes
+- Fustrum culling
+- Filtering (Point, Linear & Anisotropic) - Hardware Only
+- Dynamic camera (UE4-like controls)
